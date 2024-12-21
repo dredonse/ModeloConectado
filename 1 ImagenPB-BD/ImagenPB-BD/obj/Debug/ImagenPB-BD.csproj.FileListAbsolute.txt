@@ -1,0 +1,20 @@
+F:\usuarios\adtjoaquin\Documents\Codigos\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\bin\Debug\ImagenPB-BD.exe.config
+F:\usuarios\adtjoaquin\Documents\Codigos\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\bin\Debug\ImagenPB-BD.exe
+F:\usuarios\adtjoaquin\Documents\Codigos\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\bin\Debug\ImagenPB-BD.pdb
+F:\usuarios\adtjoaquin\Documents\Codigos\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\obj\Debug\ImagenPB-BD.csprojAssemblyReference.cache
+F:\usuarios\adtjoaquin\Documents\Codigos\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\obj\Debug\ImagenPB_BD.Form1.resources
+F:\usuarios\adtjoaquin\Documents\Codigos\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\obj\Debug\ImagenPB_BD.Properties.Resources.resources
+F:\usuarios\adtjoaquin\Documents\Codigos\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\obj\Debug\ImagenPB-BD.csproj.GenerateResource.cache
+F:\usuarios\adtjoaquin\Documents\Codigos\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\obj\Debug\ImagenPB-BD.csproj.CoreCompileInputs.cache
+F:\usuarios\adtjoaquin\Documents\Codigos\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\obj\Debug\ImagenPB-BD.exe
+F:\usuarios\adtjoaquin\Documents\Codigos\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\obj\Debug\ImagenPB-BD.pdb
+C:\Users\Pablo\Desktop\Acceso Datos\Tema 2 Conectores\Ejercicios del tema\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\bin\Debug\ImagenPB-BD.exe.config
+C:\Users\Pablo\Desktop\Acceso Datos\Tema 2 Conectores\Ejercicios del tema\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\bin\Debug\ImagenPB-BD.exe
+C:\Users\Pablo\Desktop\Acceso Datos\Tema 2 Conectores\Ejercicios del tema\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\bin\Debug\ImagenPB-BD.pdb
+C:\Users\Pablo\Desktop\Acceso Datos\Tema 2 Conectores\Ejercicios del tema\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\obj\Debug\ImagenPB-BD.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\Acceso Datos\Tema 2 Conectores\Ejercicios del tema\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\obj\Debug\ImagenPB_BD.Form1.resources
+C:\Users\Pablo\Desktop\Acceso Datos\Tema 2 Conectores\Ejercicios del tema\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\obj\Debug\ImagenPB_BD.Properties.Resources.resources
+C:\Users\Pablo\Desktop\Acceso Datos\Tema 2 Conectores\Ejercicios del tema\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\obj\Debug\ImagenPB-BD.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Acceso Datos\Tema 2 Conectores\Ejercicios del tema\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\obj\Debug\ImagenPB-BD.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Acceso Datos\Tema 2 Conectores\Ejercicios del tema\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\obj\Debug\ImagenPB-BD.exe
+C:\Users\Pablo\Desktop\Acceso Datos\Tema 2 Conectores\Ejercicios del tema\Tema 2 Conectado\1 ImagenPB-BD\ImagenPB-BD\obj\Debug\ImagenPB-BD.pdb
